@@ -59,7 +59,7 @@ __3. INSTALLATION__
 
 Clone the repository to your local machine.
 
-git clone https://github.com/your-username/hbl-bank-management-system.git
+git clone https://github.com/your-username/Banking-System.git
 
 Compile the code using a C++ compiler.
 
