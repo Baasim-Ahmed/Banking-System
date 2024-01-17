@@ -28,7 +28,7 @@ __TABLE OF CONTENTS__
 <br>
 
 
-__1. FEATURES__
+## 1. FEATURES
 
    
 <br>
