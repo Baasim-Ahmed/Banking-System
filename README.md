@@ -3,8 +3,8 @@ __BANK MANAGEMENT SYSTEM__
 <br>
 This repository contains a console-based banking management system developed in C++. The system includes functionality for account creation, bill payment, cash withdrawal, and cash deposit. Additionally, it supports the storage of customer and bank data in binary files.
 
-##TABLE OF CONTENTS
-
+__TABLE OF CONTENTS__
+<br>
 
 1. Features
 
@@ -25,7 +25,7 @@ This repository contains a console-based banking management system developed in 
 <br>
 
 
-##1. FEATURES
+__1. FEATURES__
 
    
 <br>
@@ -42,7 +42,7 @@ Customer Information: Stores customer data in binary files for persistence.
 
 <br>
 
-##2. PREREQUISITES
+__2. PREREQUISITES__
 
 <br>
 
@@ -53,7 +53,7 @@ Windows operating system (due to the use of windows.h for clearing the console s
 <br>
 
 
-##3. INSTALLATION
+__3. INSTALLATION__
 
 <br>
 
@@ -68,7 +68,7 @@ g++ main.cpp -o Bank_Management_System
 
 <br>
 
-##4. USAGE
+__4. USAGE__
 
 <br>
 
@@ -77,7 +77,7 @@ Run the compiled executable Bank_Management_System to start the program. Follow 
 <br>
 
 
-##5. CODE OVERVIEW
+__5. CODE OVERVIEW__
 
 
 <br>
@@ -98,7 +98,8 @@ Customer Class: Inherits from the Person class and represents a bank customer, i
 
 
 <br>
-##6. CONTRIBUTING
+
+__6. CONTRIBUTING__
 
 <br>
 
@@ -113,7 +114,7 @@ Make your changes and submit a pull request.
 
 <br>
 
-##7. LICENSE
+__7. LICENSE__
 
 <br>
 
@@ -122,7 +123,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <br>
 
-##8. ACKNOWLEDGMENTS
+__8. ACKNOWLEDGMENTS__
 
 
 <br>
