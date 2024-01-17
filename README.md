@@ -22,7 +22,10 @@ Table of Contents
 8. Acknowledgments
 
 
+
+
 1. FEATURES
+
    
 
 Account Creation: Allows customers to create a bank account with a minimum balance requirement.
@@ -36,7 +39,10 @@ Bank Details: Displays and allows updates to bank details, including name, numbe
 Customer Information: Stores customer data in binary files for persistence.
 
 
+
+
 2. PREREQUISITES
+
    
 
 C++ compiler (supporting C++11 or later)
@@ -44,7 +50,10 @@ C++ compiler (supporting C++11 or later)
 Windows operating system (due to the use of windows.h for clearing the console screen)
 
 
+
+
 3. INSTALLATION
+
 
 
 Clone the repository to your local machine.
@@ -56,13 +65,19 @@ Compile the code using a C++ compiler.
 g++ main.cpp -o Bank_Management_System
 
 
+
+
 4. USAGE
+
 
 
 Run the compiled executable Bank_Management_System to start the program. Follow the on-screen prompts to perform various banking operations.
 
 
+
+
 5. CODE OVERVIEW
+
 
 
 The code is organized into classes for better structure:
@@ -80,7 +95,10 @@ CashWithdrawal and CashDeposit Classes: Handle cash withdrawal and deposit opera
 Customer Class: Inherits from the Person class and represents a bank customer, including account creation.
 
 
+
+
 6. CONTRIBUTING
+
 
 
 If you'd like to contribute to the project, please follow these steps:
@@ -92,13 +110,20 @@ Create a new branch for your feature or bug fix.
 Make your changes and submit a pull request.
 
 
+
+
 7. LICENSE
+
 
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
+
+
 8. ACKNOWLEDGMENTS
+
+
 
 Special thanks to the HBL Bank for inspiring this banking management system.
 
