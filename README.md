@@ -1,4 +1,4 @@
-#BANK MANAGEMENT SYSTEM
+**BANK MANAGEMENT SYSTEM**
 <br>
 This repository contains a console-based banking management system developed in C++. The system includes functionality for account creation, bill payment, cash withdrawal, and cash deposit. Additionally, it supports the storage of customer and bank data in binary files.
 
