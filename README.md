@@ -1,8 +1,8 @@
-BANK MANAGEMENT SYSTEM
-
+#BANK MANAGEMENT SYSTEM
+<br>
 This repository contains a console-based banking management system developed in C++. The system includes functionality for account creation, bill payment, cash withdrawal, and cash deposit. Additionally, it supports the storage of customer and bank data in binary files.
 
-Table of Contents
+##TABLE OF CONTENTS
 
 
 1. Features
@@ -19,15 +19,15 @@ Table of Contents
 
 7. License
 
-8. Acknowledgments
+8. Acknowledgments 
+
+<br>
 
 
-
-
-1. FEATURES
+##1. FEATURES
 
    
-
+<br>
 Account Creation: Allows customers to create a bank account with a minimum balance requirement.
 
 Bill Payment: Facilitates bill payment with a verification process to ensure sufficient funds.
@@ -39,22 +39,22 @@ Bank Details: Displays and allows updates to bank details, including name, numbe
 Customer Information: Stores customer data in binary files for persistence.
 
 
+<br>
 
+##2. PREREQUISITES
 
-2. PREREQUISITES
-
-   
+<br>
 
 C++ compiler (supporting C++11 or later)
 
 Windows operating system (due to the use of windows.h for clearing the console screen)
 
+<br>
 
 
+##3. INSTALLATION
 
-3. INSTALLATION
-
-
+<br>
 
 Clone the repository to your local machine.
 
@@ -65,21 +65,21 @@ Compile the code using a C++ compiler.
 g++ main.cpp -o Bank_Management_System
 
 
+<br>
 
+##4. USAGE
 
-4. USAGE
-
-
+<br>
 
 Run the compiled executable Bank_Management_System to start the program. Follow the on-screen prompts to perform various banking operations.
 
+<br>
 
 
-
-5. CODE OVERVIEW
-
+##5. CODE OVERVIEW
 
 
+<br>
 The code is organized into classes for better structure:
 
 Bank Class: Manages bank information, such as name, number, address, and branch number.
@@ -96,10 +96,10 @@ Customer Class: Inherits from the Person class and represents a bank customer, i
 
 
 
+<br>
+##6. CONTRIBUTING
 
-6. CONTRIBUTING
-
-
+<br>
 
 If you'd like to contribute to the project, please follow these steps:
 
@@ -110,21 +110,21 @@ Create a new branch for your feature or bug fix.
 Make your changes and submit a pull request.
 
 
+<br>
 
+##7. LICENSE
 
-7. LICENSE
-
-
+<br>
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
+<br>
+
+##8. ACKNOWLEDGMENTS
 
 
-8. ACKNOWLEDGMENTS
-
-
-
+<br>
 Special thanks to the HBL Bank for inspiring this banking management system.
 
 The use of 'windows.h' for console screen manipulation is tailored for the Windows operating system. Adjustments may be needed for cross-platform compatibility.
