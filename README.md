@@ -33,6 +33,7 @@ __TABLE OF CONTENTS__
    
 <br>
 Account Creation: Allows customers to create a bank account with a minimum balance requirement.
+<br>
 
 Bill Payment: Facilitates bill payment with a verification process to ensure sufficient funds.
 
@@ -45,7 +46,7 @@ Customer Information: Stores customer data in binary files for persistence.
 
 <br>
 
-__2. PREREQUISITES__
+## 2. PREREQUISITES
 
 <br>
 
@@ -56,7 +57,7 @@ Windows operating system (due to the use of windows.h for clearing the console s
 <br>
 
 
-__3. INSTALLATION__
+## 3. INSTALLATION
 
 <br>
 
@@ -71,7 +72,7 @@ g++ main.cpp -o Bank_Management_System
 
 <br>
 
-__4. USAGE__
+## 4. USAGE
 
 <br>
 
@@ -80,7 +81,7 @@ Run the compiled executable Bank_Management_System to start the program. Follow 
 <br>
 
 
-__5. CODE OVERVIEW__
+## 5. CODE OVERVIEW
 
 
 <br>
@@ -102,7 +103,7 @@ Customer Class: Inherits from the Person class and represents a bank customer, i
 
 <br>
 
-__6. CONTRIBUTING__
+## 6. CONTRIBUTING
 
 <br>
 
@@ -117,7 +118,7 @@ Make your changes and submit a pull request.
 
 <br>
 
-__7. LICENSE__
+## 7. LICENSE
 
 <br>
 
@@ -126,7 +127,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <br>
 
-__8. ACKNOWLEDGMENTS__
+## 8. ACKNOWLEDGMENTS
 
 
 <br>
